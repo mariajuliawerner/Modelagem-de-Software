@@ -3,12 +3,6 @@
 
 **EXERCITY** é uma plataforma criada para auxiliar academias e usuários, otimizando o tempo, melhorando a gestão de fluxos e facilitando a administração dos proprietários.
 
-## 📋 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./caso-de-uso.png)
-
-## ↪️ Diagrama de Atividades
-![Diagrama de Atividades](./diagrama-de-atividades.png.png)
-
 ## 👥 Atores do Sistema
 - **Gerente**: Administração completa do sistema  
 - **Recepcionista**: Gerencia fluxo diário e cadastros básicos  
